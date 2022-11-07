@@ -1,0 +1,13 @@
+
+*.cache
+*.json
+*.props
+*.lock
+.vs/ForTheSuccess/FileContentIndex/457e12d1-1f90-4032-92be-06dfbd3444e4.vsidx
+*.vsidx
+.vs/ForTheSuccess/v17/.suo
+*.cache
+*.json
+*.props
+.vs/ForTheSuccess/v17/.suo
+ForTheSuccess.API/obj/Debug/net5.0/ForTheSuccess.API.csproj.AssemblyReference.cache
