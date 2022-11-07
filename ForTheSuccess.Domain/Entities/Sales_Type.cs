@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace ForTheSuccess.Domain.Entities
 {
-    public class ProductCategory : BaseEntity
+    public class SalesType: BaseEntity
     {
-        public string Category_Name { get; set; }
+        public string Sales_Type { get; set; }
     }
 }

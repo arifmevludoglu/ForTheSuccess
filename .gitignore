@@ -14,3 +14,7 @@ ForTheSuccess.API/obj/Debug/net5.0/ForTheSuccess.API.csproj.AssemblyReference.ca
 ForTheSuccess.API/obj/Debug/net5.0/ForTheSuccess.API.assets.cache
 .vs/ForTheSuccess/v17/.suo
 ForTheSuccess.API/obj/Debug/net5.0/ForTheSuccess.API.assets.cache
+*.v2
+*.config
+.vs/ForTheSuccess/v17/.suo
+*.cache
